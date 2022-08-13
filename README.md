@@ -9,3 +9,7 @@ $ pnpm install
 ```sh
 $ pnpm run dev
 ```
+
+```sh
+$ pnpm run lint
+```
