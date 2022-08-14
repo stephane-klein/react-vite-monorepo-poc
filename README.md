@@ -10,6 +10,11 @@ $ pnpm install
 $ pnpm run dev
 ```
 
+Go to:
+
+- http://127.0.0.1:5174/
+- http://127.0.0.1:5174/about
+
 ```sh
 $ pnpm run lint
 ```
