@@ -1,0 +1,63 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": [
+    "standard",
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "react",
+    "react-hooks"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "settings": {
+    "react": {
+      "pragma": "React",
+      "version": "detect"
+    }
+  },
+  "rules": {
+    "arrow-parens": [
+      2,
+      "always"
+    ],
+    "indent": [
+      "error",
+      4
+    ],
+    "linebreak-style": [
+      "error",
+      "unix"
+    ],
+    "no-console": [
+      "error",
+      {
+        "allow": [
+          "info",
+          "error"
+        ]
+      }
+    ],
+    "semi": [
+      "error",
+      "always"
+    ],
+    "array-callback-return": [
+      "error"
+    ],
+    "no-useless-concat": [
+      "error"
+    ]
+  }
+}
