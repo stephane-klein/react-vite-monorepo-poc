@@ -1,5 +1,6 @@
 {
   "name": "app_a",
+  "sideEffects": false,
   "private": true,
   "type": "module",
   "scripts": {
