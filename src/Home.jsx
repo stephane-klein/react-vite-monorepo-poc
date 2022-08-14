@@ -1,8 +1,14 @@
 import { React } from 'react';
+import { Button } from '@chakra-ui/react';
+import { Link } from 'react-router-dom';
 
 function Home () {
     return (
-        <p>Home page</p>
+        <div>
+            <p>Home page</p>
+
+            <Button as={Link} to='/about'>Go to about page</Button>
+        </div>
     );
 }
 
