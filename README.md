@@ -18,3 +18,10 @@ Go to:
 ```sh
 $ pnpm run lint
 ```
+
+```sh
+$ pnpm run build
+$ pnpm run preview
+```
+
+Go to http://127.0.0.1:4173
