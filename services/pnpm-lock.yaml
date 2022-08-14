@@ -1,0 +1,51 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers: {}
+
+  app_a:
+    specifiers:
+      '@chakra-ui/react': 2.2.8
+      '@emotion/react': 11.10.0
+      '@emotion/styled': 11.10.0
+      '@types/react': 18.0.17
+      '@types/react-dom': 18.0.6
+      '@vitejs/plugin-react': 2.0.1
+      eslint: 8.21.0
+      eslint-config-standard: 17.0.0
+      eslint-plugin-import: 2.26.0
+      eslint-plugin-n: 15.2.4
+      eslint-plugin-promise: 6.0.0
+      eslint-plugin-react: 7.30.1
+      eslint-plugin-react-hooks: 4.6.0
+      framer-motion: 6.5.1
+      react: 18.2.0
+      react-dom: 18.2.0
+      react-router: 5.3.3
+      react-router-dom: 5.3.3
+      shared-ui: workspace:../shared-ui
+      vite: 3.0.7
+    dependencies:
+      '@chakra-ui/react': 2.2.8_35sbl6b2epv3k56qaiogy2w5va
+      '@emotion/react': 11.10.0_ug65io7jkbhmo4fihdmbrh3ina
+      '@emotion/styled': 11.10.0_lzabd6uj4wst47copsenr4b56q
+      eslint: 8.21.0
+      eslint-config-standard: 17.0.0_dfwa53o44x4e5xhsfv5mvfhk5a
+      eslint-plugin-import: 2.26.0_eslint@8.21.0
+      eslint-plugin-n: 15.2.4_eslint@8.21.0
+      eslint-plugin-promise: 6.0.0_eslint@8.21.0
+      eslint-plugin-react: 7.30.1_eslint@8.21.0
+      eslint-plugin-react-hooks: 4.6.0_eslint@8.21.0
+      framer-motion: 6.5.1_biqbaboplfbrettd7655fr4n2y
+      react: 18.2.0
+      react-dom: 18.2.0_react@18.2.0
+      react-router: 5.3.3_react@18.2.0
+      react-router-dom: 5.3.3_react@18.2.0
+      shared-ui: link:../shared-ui
+    devDependencies:
+      '@types/react': 18.0.17
+      '@types/react-dom': 18.0.6
+      '@vitejs/plugin-react': 2.0.1_vite@3.0.7
+      vite: 3.0.7
