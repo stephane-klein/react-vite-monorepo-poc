@@ -9,11 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "workspaces": {
-    "packages": [
-      "app_a",
-      "shared-ui"
-    ]
-  }
+  "license": "ISC"
 }
